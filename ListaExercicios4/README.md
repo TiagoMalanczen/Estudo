@@ -1,6 +1,6 @@
 # 📑 Lista de Exercícios 4 - Composição e Métodos
 
-Este diretório contém as resoluções da quarta lista de exercícios da disciplina Orientação a objetos 1.
+Este diretório contém as resoluções da quarta lista de exercícios da disciplina Orientação a objetos 1 do curso de ADS-UTFPR.
 
 ## 🎯 Foco Técnico
 - Composição de Objetos: Classes que possuem outras classes como atributos (ex: Titular -> Endereço).
