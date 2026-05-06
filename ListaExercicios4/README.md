@@ -12,3 +12,5 @@ Este diretório contém as resoluções da quarta lista de exercícios da discip
 1. Cadastro de Funcionários;
 2. Gestão de Disciplinas e Professores;
 3. Sistema Bancário (Saque/Depósito);
+4. Validação de Dados (Validador de CPF);
+5. Gestão de Relacionamentos e Interações entre Objetos.
