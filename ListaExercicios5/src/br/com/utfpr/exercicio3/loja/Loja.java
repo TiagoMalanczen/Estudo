@@ -39,9 +39,6 @@ public class Loja {
 		}
 	}
 	
-	public void adquirirProduto() {
-		
-	}
 	public void listarProdutos() {
 		for(Produto p : listaProdutos) {
 			System.out.println("Codigo = " + p.getCodigo());
@@ -55,8 +52,32 @@ public class Loja {
 
 		}
 	}
-	public void venderProduto() {
+	public void adquirirProdutos(int codigo, int quantidadeSolicitada) {
+		Produto p = this.buscarProduto(codigo);
 		
+		if(p != null) {
+				p.setQuantidadeEstoque(p.getQuantidadeEstoque() + quantidadeSolicitada);
+		}
+		else {
+			System.out.println("Produto nao encontrado");
+		}	
+	}
+	
+	public void venderProduto(int codigo, int quantidadeSolicitada) {
+		Produto p = this.buscarProduto(codigo);
+		
+		if(p != null) {
+			if(quantidadeSolicitada > p.getQuantidadeEstoque() ) {
+				System.out.println("Estoque nao suficiente para venda");
+			}
+			else {
+				System.out.println("Venda realizada com sucesso");
+				p.setQuantidadeEstoque(p.getQuantidadeEstoque() - quantidadeSolicitada);
+			}
+		}
+		else {
+			System.out.println("Produto nao encontrado");
+		}
 	}
 	public Produto buscarProduto(int codigo) {
 		for(Produto p : listaProdutos) {
