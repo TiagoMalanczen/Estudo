@@ -7,16 +7,14 @@ public class Cliente {
 
 	//==============Atributos==============
 	private int id;
-	private int limiteFilmes;
 	private Plano plano;
 	
 	private List<Filme> filmesAlugados;
 
 	//==============Construtor==============
-	public Cliente(int id, int limiteFilmes, Plano plano) {
+	public Cliente(int id, Plano plano) {
 		 
 		this.id = id;
-		this.limiteFilmes = limiteFilmes;
 		this.plano = plano;
 		this.filmesAlugados = new ArrayList<>();
 	}
@@ -26,9 +24,6 @@ public class Cliente {
 		return id;
 	}
 
-	public int getLimiteFilmes() {
-		return limiteFilmes;
-	}
 
 	public Plano getPlano() {
 		return plano;
