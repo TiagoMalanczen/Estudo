@@ -1,6 +1,6 @@
 ﻿# 🧬 Aprendendo Herança e Polimorfismo em Java (UTFPR)
 
-Pasta dedicada ao estudo dos pilares de Reuso e Flexibilidade na Orientação a Objetos, seguindo a cronologia das aulas do Professor Luiz Alberto Ferreira.
+Pasta dedicada ao estudo dos pilares de Reuso e Flexibilidade na Orientação a Objetos.
 
 ## 🎯 Objetivo
 Compreender como estruturar hierarquias de classes para evitar duplicação de código e permitir que o sistema trate diferentes objetos de forma genérica.
@@ -18,9 +18,9 @@ Compreender como estruturar hierarquias de classes para evitar duplicação de c
 - **Acoplamento e Coesão:** Como a herança bem aplicada melhora a arquitetura do software.
 
 ## 🛠️ Tecnologias
-- Java JDK 17+
+- Java JDK 21
 - Eclipse IDE
 - PowerShell / Git
 
 ---
-*Status: Em andamento. Próximo passo: Abstração e Interfaces.*
+*Status: Em andamento.*
