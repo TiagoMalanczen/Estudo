@@ -21,7 +21,7 @@ O projeto aborda 5 cenários práticos de lógica de negócios:
 - **Encapsulamento:** Atributos privados e métodos de conveniência.
 
 ## 🛠️ Tecnologias
-- Java JDK 17+
+- Java JDK 21
 - Eclipse IDE
 
 ---
