@@ -1,11 +1,18 @@
-﻿# 🎓 Repositório de Estudos Técnicos - Tiago Malanczen
+﻿# ☕ Orientação a Objetos 1 (Java - JDK 21)
 
-Este repositório centraliza meus estudos acadêmicos na UTFPR e atividade de treino pessoais, organizado por disciplinas e áreas de foco.
+Conteúdo prático e teórico desenvolvido durante o 2º período de ADS na UTFPR (Professor Viniccius).
 
-## 🗂️ Organização do Repositório
-- **`OrientacaoObjetos_1/`**: Fundamentos de Java, Listas, Composição e lógica de negócios .
-- **`Banco_de_Dados/`**: Modelagem relacional e scripts SQL.
-- **`Estrutura_de_Dados/`**: Implementações de melhorias de codigo
+## 📂 Conteúdos Gerais
+- **Aprendizado de Novos Conteúdos:** Anotações e códigos de fixação sobre os pilares da Orientação a Objetos.
+- **Rascunhos Técnicos:** Laboratórios de lógica e protótipos.
+- **Listas de Exercícios:** Conjunto completo de atividades práticas focadas em implementação de regras de negócio.
+
+## 🧠 Tópicos Estudados
+- **Fundamentos:** Classes, Objetos e Instanciação.
+- **Encapsulamento:** Getters, Setters e Modificadores de Acesso.
+- **Associação:** Composição e Agregação de Objetos.
+- **Coleções:** Manipulação dinâmica com `List` e `ArrayList`.
+- **Lógica de Negócio:** Métodos de busca, filtragem e cálculos de faturamento.
 
 ---
-*Foco em se tornar um desenvolvedor de alto nível com pensamento lógico e estruturado.*
+*Status: Organização de pastas concluída. Pronto para Banco de Dados e Estrutura de Dados.*
