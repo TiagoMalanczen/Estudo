@@ -18,6 +18,6 @@ Este diretório contém as resoluções da quinta lista de exercícios da discip
 5. **Estacionamento:** Controle de vagas e tarifação de permanência (taxa fixa + adicional por hora).
 
 ---
-**Status da Lista:** 🛠️ Em desenvolvimento  
+**Status da Lista:** Finalizada
 **Ambiente de Desenvolvimento:** Eclipse IDE  
 **Linguagem:** Java 21 (LTS)
