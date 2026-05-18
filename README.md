@@ -6,6 +6,7 @@ Conteúdo prático e teórico desenvolvido durante o 2º período de ADS na UTFP
 - **Aprendizado de Novos Conteúdos:** Anotações e códigos de fixação sobre os pilares da Orientação a Objetos.
 - **Rascunhos Técnicos:** Laboratórios de lógica e protótipos.
 - **Listas de Exercícios:** Conjunto completo de atividades práticas focadas em implementação de regras de negócio.
+- **Revisoes:** Pasta voltado para revisões de assuntos ja estudados.
 
 ## 🧠 Tópicos Estudados
 - **Fundamentos:** Classes, Objetos e Instanciação.
